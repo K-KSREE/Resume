@@ -40,7 +40,7 @@ You can use this project as a template for your own resume. Simply replace the p
 If you have any questions or feedback, feel free to contact me:
 
 - **Email**: <p><a href="mailto: kavyasreekusuma12@gmail.com">kavyasreekusuma12@gmail.com</a>
-- **LinkedIn**: <p><a href="https://www.linkedin.com/in/kusuma-kavya-sree-5225b2285/"></a>LinkedIn</p>
+- **LinkedIn**: <p><a href="https://www.linkedin.com/in/kusuma-kavya-sree-5225b2285/">LinkedIn</a></p>
 - **GitHub**: <p><a href="https://github.com/K-KSREE"> github </a></p>
 
 ---
