@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-left: 20%;
+    margin-right: 20%; 
+    padding: 25px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 850px;
+    height: 100%;
+    border: 0.6px solid lightgray;
+    font-family: Arial;
+    font-size: 0.9rem;
+}
+.main{
+    text-align: center;
+    line-height: 1.8rem;
+}
+.academic, .exp{
+    margin-top: 1rem;
+}
+.academic li{
+    margin-top: 0.5rem;
+}
+h3{
+    background-color: rgb(211, 211, 211);
+    padding: 0.3rem;
+}
+.college-name, .colg, .school{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    margin-left: 1rem;
+}
+.exp li{
+    margin-top: 0.5rem;
+}
+.exp{
+    line-height: 1rem;
+}
+.skills{
+    margin-top: 1rem;
+    line-height: 1rem;
+}
+.skills li{
+    margin-top: 0.5rem;
+}
+.projects{
+    margin-top: 1rem;
+    line-height: 1rem;
+}
+.projects li{
+    margin-top: 0.5rem;
+}
+.certification{
+    margin-top: 1rem;
+    line-height: 1rem;
+}
+.certification li{
+    margin-top: 0.5rem;
+}
